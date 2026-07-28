@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Dang Le Khang 👋
 
-<!--
-**khangdl05/khangdl05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Software Engineering student at **FPT University** with a strong interest in **Backend Development** and **AI-powered Applications**.
 
-Here are some ideas to get you started:
+I enjoy designing backend systems, building AI features, and solving real-world problems through software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🎓 Software Engineering Student at FPT University
+- 💻 Interested in Backend Development & AI-powered Applications
+- 🤖 Currently focusing on Retrieval-Augmented Generation (RAG), Semantic Search, and Document Intelligence
+- 🌱 Continuously learning modern backend technologies and AI integration
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+- Java
+- Python
+- SQL
+
+### Backend
+
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- RESTful APIs
+
+### AI
+
+- FastAPI
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Gemini API
+- Vector Embeddings
+
+### Database
+
+- PostgreSQL
+- MySQL
+- pgvector
+
+---
+
+## Featured Project
+
+### AI Study Hub
+
+AI-powered document learning platform built with Spring Boot and FastAPI.
+
+### Key Features
+
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Document Processing
+- AI Chatbot
+- Vector Embeddings
+- Cloudinary Integration
+
+Repository:
+
+👉 https://github.com/YourOrganization/AI-Study-Hub
+
+---
+
+## Certifications
+
+- Generative AI in Software Development — Amazon (Coursera)
+- AI For Everyone — DeepLearning.AI (Coursera)
+
+---
+
+## Contact
+
+📧 danglekhang63@gmail.com
+
+📍 Ho Chi Minh City, Vietnam
