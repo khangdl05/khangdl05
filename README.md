@@ -63,7 +63,7 @@ AI-powered document learning platform built with Spring Boot and FastAPI.
 
 Repository:
 
-👉 https://github.com/YourOrganization/AI-Study-Hub](https://github.com/ai-study-hub-team/AI-study-hub-ver1.0
+👉 https://github.com/ai-study-hub-team/AI-study-hub-ver1.0
 
 ---
 
